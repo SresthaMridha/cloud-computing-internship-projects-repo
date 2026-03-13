@@ -121,5 +121,5 @@ Each folder contains the configuration steps, documentation, and screenshots rel
 If you would like to connect or discuss cloud computing projects:
 
 **Name:** Srestha Mridha  
-**GitHub:** https://github.com/yourusername  
-**LinkedIn:** https://linkedin.com/in/yourprofile
+**GitHub:** https://github.com/SresthaMridha/
+**LinkedIn:** https://www.linkedin.com/in/srestha-mridha/
