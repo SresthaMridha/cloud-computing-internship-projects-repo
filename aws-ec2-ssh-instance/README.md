@@ -1,4 +1,4 @@
-[# 🖥️ AWS EC2 Instance Setup with Terraform
+# 🖥️ AWS EC2 Instance Setup with Terraform
 
 Provision and SSH into an EC2 instance on AWS using Terraform — no manual console clicking required.
 
@@ -90,3 +90,4 @@ terraform destroy
 - Use a **Nitro-based instance type** (e.g. `t3.micro`) — `t2.micro` does not support UEFI AMIs
 - Make sure your AMI architecture matches your instance type (`x86_64` vs `arm64`)
 - Private key permissions must be `400` or SSH will reject the key](https://github.com/SresthaMridha/cloud-computing-internship-projects-repo/tree/main/aws-ec2-ssh-instance)
+](https://github.com/SresthaMridha/cloud-computing-internship-projects-repo/tree/main/aws-ec2-ssh-instance)
