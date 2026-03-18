@@ -1,0 +1,5 @@
+region="us-east-1"
+project_name = "aws-ec2-ssh-instance"
+ami = "ami-0ec10929233384c7f"
+instance_type = "t3.micro"
+public_key_path = "~/.ssh/ec2-key.pub"
