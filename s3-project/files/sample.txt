@@ -1,0 +1,1 @@
+Hi from terraform s3 bucket!
